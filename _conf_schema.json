@@ -1,0 +1,12 @@
+{
+  "enabled": {
+    "type": "bool",
+    "default": true,
+    "description": "启用签名服务"
+  },
+  "ark_signing_token": {
+    "type": "string",
+    "default": "",
+    "description": "咸鱼API开放平台个人Token；只在此处配置，消费者不再持有"
+  }
+}
