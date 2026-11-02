@@ -1,7 +1,7 @@
 name: astrbot_plugin_qq_card
 display_name: QQ卡片签名
 desc: 为社区分享和点歌生成带标题、封面、可点击跳转的 QQ 卡片，统一配置签名 Token。
-version: 1.0.0
+version: 1.0.1
 author: Wyj425
 astrbot_version: ">=4.29.3"
 repo: https://github.com/Wyj425/astrbot_plugin_qq_card

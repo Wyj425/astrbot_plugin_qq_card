@@ -4,7 +4,7 @@ from astrbot.api import AstrBotConfig
 from .signing import sign_card
 from .music import NativeMusic
 
-@register('astrbot_plugin_qq_card','Wyj425','独立QQ图文卡片签名服务；供社区精选和点歌调用','1.0.0')
+@register('astrbot_plugin_qq_card','Wyj425','独立QQ图文卡片签名服务；供社区精选和点歌调用','1.0.1')
 class QQCard(Star):
     api_version=1
     def __init__(self,context:Context,config:AstrBotConfig):

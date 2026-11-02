@@ -4,7 +4,7 @@
 
 这是供「社区精选分享」「大肥鱼点歌」调用的配套插件。安装后，在这里配置一次卡片签名 Token，配套插件即可复用。实际发送由调用它的插件完成。
 
-<img src="logo.png" width="120" alt="QQ卡片签名插件图标">
+<img src="https://raw.githubusercontent.com/Wyj425/astrbot_plugin_qq_card/main/logo.png" width="120" alt="QQ卡片签名插件图标">
 
 ## 能做什么
 
@@ -85,8 +85,8 @@ Token 由我在后台填写，不要在聊天中索要或输出 Token。
 
 ## 开发资料
 
-- [接口说明](docs/API.md)
-- [更新记录](CHANGELOG.md)
-- [发布检查](docs/RELEASING.md)
+- [接口说明](https://github.com/Wyj425/astrbot_plugin_qq_card/blob/main/docs/API.md)
+- [更新记录](https://github.com/Wyj425/astrbot_plugin_qq_card/blob/main/CHANGELOG.md)
+- [发布检查](https://github.com/Wyj425/astrbot_plugin_qq_card/blob/main/docs/RELEASING.md)
 
-本插件采用 [MIT 许可证](LICENSE)。
+本插件采用 [MIT 许可证](https://github.com/Wyj425/astrbot_plugin_qq_card/blob/main/LICENSE)。
